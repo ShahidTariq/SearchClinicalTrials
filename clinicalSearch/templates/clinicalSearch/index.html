@@ -1,12 +1,444 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html>
+{% load static %}
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+		<title>Clinical Study | Home </title>
+	<!--/tags -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Clinical Trial Search" />
+	<script type="application/x-javascript">
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+
+
+	<!--//tags -->
+
+	<link href="{% static 'clinicalSearch/css/bootstrap.css' %}" rel="stylesheet" type="text/css" media="all" />
+	<link href="{% static 'clinicalSearch/css/style.css' %}" rel="stylesheet" type="text/css" media="all" />
+	<link href="{% static 'clinicalSearch/css/my-style.css' %}" rel="stylesheet" type="text/css" media="all" />
+	<link href="{% static 'clinicalSearch/css/appointment_style.css' %}" rel="stylesheet" type="text/css" media="all" />
+	<link href="{% static 'clinicalSearch/css/font-awesome.css' %}" rel="stylesheet">
+	<script src="{% static 'clinicalSearch/js/jquery-2.1.4.min.js' %}"  type="text/javascript"></script>
+	<script src="{% static 'clinicalSearch/js/easyResponsiveTabs.js' %}" type="text/javascript"></script>
+	<!-- //for bootstrap working -->
+
+	<!-- Web-Fonts -->
+		<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700" rel="stylesheet">
+		<link href='//fonts.googleapis.com/css?family=Raleway:400,500,600,700,800' rel='stylesheet' type='text/css'>
+		<link href='//fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+	<!-- //Web-Fonts -->
+
+
 </head>
+
 <body>
-<h1>Hello world</h1>
-{{citation}}
-{{pmid}}
+	<!-- header -->
+	<div class="header" id="home">
+		<div class="content white" style="margin-bottom:20px;">
+			<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+				<div class="container">
+					<div class="navbar-header">
+						<a class="navbar-brand"  href="#">
+							<h1><span class="fa fa-stethoscope" aria-hidden="true"></span> Search Trials </h1>
+						</a>
+					</div>
+				</div>
+			</nav>
+		</div>
+	</div>
+	<!-- banner -->
+	<div id="myCarousel" class="carousel slide" data-ride="carousel">
+		<!-- Indicators -->
+		<ol class="carousel-indicators">
+			<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+			<li data-target="#myCarousel" data-slide-to="1" class=""></li>
+			<li data-target="#myCarousel" data-slide-to="2" class=""></li>
+			<li data-target="#myCarousel" data-slide-to="3" class=""></li>
+		</ol>
+		<div class="carousel-inner" role="listbox">
+			<div class="item active">
+				<div class="container">
+					<div class="carousel-caption">
+						<h3>With a Touch of <span>Kindness.</span></h3>
+						<p> Denis Waitley</p>
+						<h6>"Time and health are two precious assets that we don't recognize and appreciate until they have been
+							depleted"</h6>
+					</div>
+				</div>
+			</div>
+			<div class="item item2">
+				<div class="container">
+					<div class="carousel-caption">
+						<h3>With a Touch of <span>Kindness.</span></h3>
+						<p> Anne Wilson Schaef</p>
+						<h6>"Good health is not something we can buy.
+							However, it can be an extremely valuable savings account"</h6>
+					</div>
+				</div>
+			</div>
+			<div class="item item3">
+				<div class="container">
+					<div class="carousel-caption">
+						<h3>With a Touch of <span>Kindness.</span></h3>
+						<p>Reba McEntire</p>
+						<h6>"All the money in the world can't buy you back good health"</h6>
+					</div>
+				</div>
+			</div>
+			<div class="item item4">
+				<div class="container">
+					<div class="carousel-caption">
+						<h3>With a Touch of <span>Kindness.</span></h3>
+						<p> Robert Urich</p>
+						<h6>"A healthy outside starts from the inside"</h6>
+					</div>
+				</div>
+			</div>
+		</div>
+		<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+			<span class="fa fa-chevron-left" aria-hidden="true"></span>
+			<span class="sr-only">Previous</span>
+		</a>
+		<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+			<span class="fa fa-chevron-right" aria-hidden="true"></span>
+			<span class="sr-only">Next</span>
+		</a>
+		<!-- The Modal -->
+	</div>
+	<div style="height:2px;"></div>
+	<!--//banner -->
+<!-- emergency -->
+<div class="emergency_cases_w3ls">
+<div class="emergency_cases_bt">
+	<div class="container">
+
+	<div class="emergency_cases_top" style="width:100%;margin:auto;">
+			<h4 style="text-align:center;font-size:38px;">Search clinical trial</h4>
+
+		<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+
+	<div class="container" style="width:100%;">
+
+		<div class="tab">
+
+			<div id="horizontalTab" style="display: block; width: 50%; margin: 0px;">
+
+
+				<div class="tabs">
+
+					<div class="tab-left">
+						<ul class="resp-tabs-list">
+							<li class="resp-tab-item"><i class="fa fa-tags" aria-hidden="true"></i>Search by NCT-ID</li>
+							<!--<li class="resp-tab-item"><i class="fa fa-university" aria-hidden="true"></i>Hotels</li>-->
+							<!--<li class="resp-tab-item"><i class="fa fa-suitcase" aria-hidden="true"></i>Vacations</li>-->
+							<li class="resp-tab-item"><i class="fa fa-map-marker" aria-hidden="true"></i>Search by location</li>
+							<li class="resp-tab-item"><i class="fa fa-filter" aria-hidden="true"></i>Search by condition</li>
+						</ul>
+					</div>
+
+					<div class="tab-right">
+						<div class="resp-tabs-container">
+							<div class="tab-1 resp-tab-content">
+								<div class="w3l-sign-in">
+									<form action="{% url 'clinicalSearch:search_nct' %}" method="post" enctype="multipart/form-data">
+										{% csrf_token %}
+										<input type="text" placeholder="Enter NCT-ID" name="nct-id" class="name agileits" required=""/>
+
+										<div class="submit">
+										  <input type="submit" value="search">
+										</div>
+									</form>
+								</div>
+							</div>
+
+							<div class="tab-1 resp-tab-content">
+								<div class="agileinfo-recover">
+								<form action="{% url 'clinicalSearch:search_location' %}" method="post" class="agile_form">
+										{% csrf_token %}
+										<!-- <input type="text" placeholder="Enter NCT-ID" name="nct-id" class="name agileits" required=""/> -->
+										<div class="list_agileits_w3layouts">
+											<div class="section_class_agileits sec-left">
+											 <select name="country" id="country">
+												 <option>--Select--</option>
+												 {% if country %}
+												 {% for c in country %}
+
+												 <option value="{{c.location_country}}">{{c.location_country}}</option>
+
+												 {% endfor %}
+												 {% endif %}
+											 </select>
+											</div>
+
+										</div>
+										<div class="submit">
+										  <input type="submit" value="search">
+										</div>
+									</form>
+								</div>
+							</div>
+							<div class="tab-1 resp-tab-content">
+								<div class="agile-send-mail" >
+									<form action="{% url 'clinicalSearch:search_condition' %}" method="post" enctype="multipart/form-data">
+												{% csrf_token %}
+										<input type="text" placeholder="Enter Condition or Mesh Terms" id="search-field" name="name" class="name agileits" required=""/>
+										<div class="submit">
+										  <input type="submit" value="search">
+										</div>
+									</form>
+									<script>
+										$(function() {
+  												$("#search-field").autocomplete({
+    											source: "/clinicalTrial/getLocation/",
+    											minLength: 1,
+  												});
+										});
+									</script>
+							</div>
+							</div>
+						</div>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+	<!--//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+
+		<div class="clearfix"></div>
+		</div>
+	</div>
+	</div>
+</div>
+<!-- //emergency -->
+<!-- services -->
+<div class="services">
+<div class="container">
+		<h3 class="heading-agileinfo">Recent Trials<span>We offer extensive clinical trials to outbound and inbound patients.</span></h3>
+
+		<div class="services-top-grids">
+
+			 {% for row in rec %}
+
+<div class="col-md-4">
+	 <div class="row">
+	<div class="grid1">
+		<i class="fa fa-user-md" aria-hidden="true"></i>
+		<h4>{{ row.nct_id }}</h4><h1></h1>
+
+
+
+
+		<ul>
+				<li>{{ row.official_title }}</li>
+
+		</ul>
+		<p>Status: {{row.overall_status}} </p>
+	</div>
+</div>
+</div>
+{% endfor %}
+
+
+			<div class="clearfix"></div>
+		</div>
+
+	</div>
+</div>
+<!-- //services -->
+<!-- Clients -->
+<div class="tesimonials">
+<div class="tesimonials_tp">
+		<div class="container">
+			<div class="tittle_head_w3layouts">
+				<h3 class="heading-agileinfo te">What Clients Say<span class="te">We offer extensive medical procedures to outbound and inbound patients.</span></h3>
+			</div>
+			<div class="inner_sec_info_agileits_w3">
+				<div class="test_grid_sec">
+					<div class="col-md-offset-2 col-md-8">
+						<div class="carousel slide two" data-ride="carousel" id="quote-carousel">
+							<!-- Bottom Carousel Indicators -->
+							<ol class="carousel-indicators two">
+								<li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
+								<li data-target="#quote-carousel" data-slide-to="1"></li>
+								<li data-target="#quote-carousel" data-slide-to="2"></li>
+							</ol>
+
+							<!-- Carousel Slides / Quotes -->
+							<div class="carousel-inner">
+
+								<!-- Quote 1 -->
+								<div class="item active">
+									<blockquote>
+										<div class="test_grid">
+											<div class="col-sm-3 text-center test_img">
+												<!--<img src="{% static 'clinicalSearch/images/ts1.jpg' %}" alt=" " class="img-responsive" />-->
+
+											</div>
+											<div class="col-sm-9 test_img_info">
+												<p>TrialX gives them a single place to create a profile of their site and trials,
+													receive legitimate leads, communicate directly with those prospects,
+													and get performance reports on the resulting activity.</p>
+												<h6>Bio IT World.com</h6>
+											</div>
+										</div>
+									</blockquote>
+								</div>
+								<!-- Quote 2 -->
+								<div class="item">
+									<blockquote>
+										<div class="test_grid">
+											<div class="col-sm-3 text-center test_img">
+												<!--<img src="{% static 'clinicalSearch/images/ts2.jpg' %}" alt=" " class="img-responsive" />-->
+											</div>
+											<div class="col-sm-9 test_img_info">
+												<p>TrialX iPhone app lets patients and doctors search for clinical trials by
+													location, indication or treatment, share it with friends or family, and
+													call a clinical trial instigator.</p>
+												<h6>Nature Biotechnology</h6>
+											</div>
+										</div>
+									</blockquote>
+								</div>
+								<!-- Quote 3 -->
+								<div class="item">
+									<blockquote>
+										<div class="test_grid">
+											<div class="col-sm-3 text-center test_img">
+												<!--<img src="{% static 'clinicalSearch/images/ts3.jpg' %}" alt=" " class="img-responsive" />-->
+											</div>
+											<div class="col-sm-9 test_img_info">
+												<p>New tools are being developed that may help harried patients...
+													TrialX matches patients to relevant clinical trials based on their
+													health <inform></inform>ation.</p>
+												<h6>The New York Times</h6>
+											</div>
+										</div>
+									</blockquote>
+								</div>
+							</div>
+
+							<!-- Carousel Buttons Next/Prev -->
+							<a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
+							<a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+	<!-- footer -->
+	<div class="footer_top_agile_w3ls">
+		<div class="container">
+			<div class="col-md-4 footer_grid">
+				<h3>About Us</h3>
+				<p>We as a team are working to provide a platform where people all around the globe can search for clinical
+					trials.
+
+				</p>
+
+			</div>
+			<div class="col-md-4 footer_grid">
+				<h3>Contact Info</h3>
+				<ul class="address">
+					<li><i class="fa fa-map-marker" aria-hidden="true"></i>315 Fifth Ave, 9th Floor <span>New York NY 10016</span></li>
+					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@appliedinformaticsinc.com">info@appliedinformaticsinc.com</a></li>
+					<li><i class="fa fa-phone" aria-hidden="true"></i>+1 212 537 6944</li>
+				</ul>
+			</div>
+
+			<div class="col-md-4 footer_grid ">
+				<h3>Sign up for our Newsletter</h3>
+				<p>Get Started For Free</p>
+				<div class="footer_grid_right">
+
+					<form action="#" method="post">
+						<input type="email" name="Email" placeholder="Email Address..." required="">
+						<input type="submit" value="Submit">
+					</form>
+				</div>
+			</div>
+			<div class="clearfix"> </div>
+
+		</div>
+	</div>
+	<div class="footer_wthree_agile">
+		<p>© 2018 Search Trials. All rights reserved | Design by <a href="http://appliedinformaticsinc.com/">Applied Informatics</a></p>
+	</div>
+	<!-- //footer -->
+	<!-- bootstrap-modal-pop-up -->
+	<div class="modal video-modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModal">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					New Clinic
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				</div>
+					<div class="modal-body">
+						<img src="{% static 'clinicalSearch/images/g7.jpg' %}" alt=" " class="img-responsive" />
+						<p>”TrialX gives them a single place to create a profile of their site and trials, receive legitimate leads, communicate directly with those prospects, and get performance reports on the resulting activity...”
+							<i>" Quis autem vel eum iure reprehenderit qui in ea voluptate velit
+								esse quam nihil molestiae consequatur.</i></p>
+					</div>
+			</div>
+		</div>
+	</div>
+<!-- //bootstrap-modal-pop-up -->
+
+	<!-- js -->
+	<script type="text/javascript" src="{% static 'clinicalSearch/js/jquery-2.1.4.min.js' %}"></script>
+	<script>
+		$('ul.dropdown-menu li').hover(function () {
+			$(this).find('.dropdown-menu').stop(true, true).delay(200).fadeIn(500);
+		}, function () {
+			$(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut(500);
+		});
+	</script>
+	<script type="text/javascript" src="{% static 'clinicalSearch/js/bootstrap.js' %}"></script>
+
+<!--start-date-piker-->
+		<link rel="stylesheet" href="{% static 'clinicalSearch/css/jquery-ui.css' %}" />
+		<script src="{% static 'clinicalSearch/js/jquery-ui.js' %}"></script>
+			<script>
+				$(function() {
+				$( "#datepicker,#datepicker1,#datepicker2,#datepicker3,#datepicker4,#datepicker5,#datepicker6,#datepicker7" ).datepicker();
+				});
+			</script>
+<!-- 97-rgba(0, 0, 0, 0.75)/End-date-piker -->
 </body>
+<script src="{% static 'clinicalSearch/js/easyResponsiveTabs.js' %}" type="text/javascript"></script>
+				<script type="text/javascript">
+					$(document).ready(function () {
+						$('#horizontalTab').easyResponsiveTabs({
+							type: 'default', //Types: default, vertical, accordion
+							width: 'auto', //auto or any width like 600px
+							fit: true,   // 100% fit in a container
+							closed: 'accordion', // Start closed if in accordion view
+							activate: function(event) { // Callback function if tab is switched
+								var $tab = $(this);
+								var $info = $('#tabInfo');
+								var $name = $('span', $info);
+								$name.text($tab.text());
+								$info.show();
+							}
+						});
+
+						$('#verticalTab').easyResponsiveTabs({
+							type: 'vertical',
+							width: 'auto',
+							fit: true
+						});
+					});
+				</script>
 </html>

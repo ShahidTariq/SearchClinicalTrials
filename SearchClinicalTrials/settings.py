@@ -65,10 +65,10 @@ WSGI_APPLICATION = 'SearchClinicalTrials.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'clinicalSearchDB',
+        'NAME': 'clinicalSearch',
         'USER': 'root',
         'PASSWORD': 'root',
-        'HOST': '127.0.0.1',
+        'HOST': 'localhost',
         'PORT': '3306',
     }
 }
@@ -110,5 +110,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
 
+MEDIA_ROOT = "/home/shahid/Applied data/DJANGO/SearchClinicalTrials/clinicalSearch/media"
 STATIC_URL = '/static/'
 MEDIA_URL = "media/"
+
