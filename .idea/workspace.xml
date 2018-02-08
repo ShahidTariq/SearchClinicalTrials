@@ -2,88 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0d54f77-8953-4122-9c9e-3ba8fd13b30b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001239.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001250.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001269.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001272.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001378.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001384.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001385.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001426.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001427.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001428.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001431.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001440.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001442.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001446.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001469.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001496.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001498.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001503.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001504.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001507.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001576.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001587.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001686.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001695.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001703.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001827.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001835.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00001944.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002463.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002466.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002470.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002473.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002476.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002480.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002485.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002489.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002490.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002493.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002496.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002498.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002508.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002515.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002520.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002533.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002536.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002537.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002542.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002544.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002550.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002553.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002562.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002570.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002572.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002579.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002580.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002581.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002589.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002594.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002597.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002600.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002602.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clinicalSearch/media/NCT00002604.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/SearchClinicalTrials.iml" afterPath="$PROJECT_DIR$/.idea/SearchClinicalTrials.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/SearchClinicalTrials/settings.py" afterPath="$PROJECT_DIR$/SearchClinicalTrials/settings.py" />
-      <change beforePath="$PROJECT_DIR$/SearchClinicalTrials/urls.py" afterPath="$PROJECT_DIR$/SearchClinicalTrials/urls.py" />
-      <change beforePath="$PROJECT_DIR$/SearchClinicalTrials/wsgi.py" afterPath="$PROJECT_DIR$/SearchClinicalTrials/wsgi.py" />
-      <change beforePath="$PROJECT_DIR$/clinicalSearch/admin.py" afterPath="$PROJECT_DIR$/clinicalSearch/admin.py" />
-      <change beforePath="$PROJECT_DIR$/clinicalSearch/apps.py" afterPath="$PROJECT_DIR$/clinicalSearch/apps.py" />
       <change beforePath="$PROJECT_DIR$/clinicalSearch/media/NCT01047358.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clinicalSearch/migrations/0001_initial.py" afterPath="" />
       <change beforePath="$PROJECT_DIR$/clinicalSearch/migrations/0002_auto_20180201_1228.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clinicalSearch/models.py" afterPath="$PROJECT_DIR$/clinicalSearch/models.py" />
       <change beforePath="$PROJECT_DIR$/clinicalSearch/templates/clinicalSearch/index.html" afterPath="$PROJECT_DIR$/clinicalSearch/templates/clinicalSearch/index.html" />
-      <change beforePath="$PROJECT_DIR$/clinicalSearch/tests.py" afterPath="$PROJECT_DIR$/clinicalSearch/tests.py" />
-      <change beforePath="$PROJECT_DIR$/clinicalSearch/urls.py" afterPath="$PROJECT_DIR$/clinicalSearch/urls.py" />
-      <change beforePath="$PROJECT_DIR$/clinicalSearch/views.py" afterPath="$PROJECT_DIR$/clinicalSearch/views.py" />
-      <change beforePath="$PROJECT_DIR$/manage.py" afterPath="$PROJECT_DIR$/manage.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -94,53 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clinicalSearch/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/clinicalSearch/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="detail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clinicalSearch/templates/clinicalSearch/detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SearchClinicalTrials/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="115" column="0" lean-forward="true" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/clinicalSearch/templates/clinicalSearch/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="198" column="56" lean-forward="true" selection-start-line="198" selection-start-column="56" selection-end-line="198" selection-end-column="56" />
+            <state relative-caret-position="305">
+              <caret line="48" column="59" lean-forward="false" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -148,41 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my-style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clinicalSearch/static/clinicalSearch/css/my-style.css">
+      <file leaf-file-name="result.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clinicalSearch/templates/clinicalSearch/result.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="624" column="24" lean-forward="true" selection-start-line="624" selection-start-column="24" selection-end-line="624" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clinicalSearch/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="19" column="54" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NCT00001507.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clinicalSearch/media/NCT00001507.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="242" column="27" lean-forward="true" selection-start-line="242" selection-start-column="27" selection-end-line="242" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NCT00002498.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clinicalSearch/media/NCT00002498.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-216">
-              <caret line="27" column="46" lean-forward="false" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+            <state relative-caret-position="395">
+              <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -217,9 +67,9 @@
         <option value="$PROJECT_DIR$/SearchClinicalTrials/urls.py" />
         <option value="$PROJECT_DIR$/clinicalSearch/urls.py" />
         <option value="$PROJECT_DIR$/clinicalSearch/static/clinicalSearch/css/my-style.css" />
-        <option value="$PROJECT_DIR$/clinicalSearch/templates/clinicalSearch/index.html" />
         <option value="$PROJECT_DIR$/clinicalSearch/views.py" />
         <option value="$PROJECT_DIR$/clinicalSearch/templates/clinicalSearch/detail.html" />
+        <option value="$PROJECT_DIR$/clinicalSearch/templates/clinicalSearch/index.html" />
       </list>
     </option>
   </component>
@@ -285,7 +135,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Clinical Search Project/clinical tials" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
@@ -327,16 +177,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="193" y="131" width="1602" height="912" extended-state="6" />
+    <frame x="0" y="-4" width="1600" height="904" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19784401" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19784401" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3767742" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3767742" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -379,6 +229,82 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/clinicalSearch/views.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinicalSearch/templates/clinicalSearch/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinicalSearch/templates/clinicalSearch/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3564">
+          <caret line="198" column="56" lean-forward="true" selection-start-line="198" selection-start-column="56" selection-end-line="198" selection-end-column="56" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchClinicalTrials/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="115" column="0" lean-forward="true" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinicalSearch/static/clinicalSearch/css/my-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11232">
+          <caret line="624" column="24" lean-forward="true" selection-start-line="624" selection-start-column="24" selection-end-line="624" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinicalSearch/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="19" column="54" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinicalSearch/media/NCT00001507.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4356">
+          <caret line="242" column="27" lean-forward="true" selection-start-line="242" selection-start-column="27" selection-end-line="242" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinicalSearch/media/NCT00002498.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="46" lean-forward="false" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinicalSearch/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinicalSearch/views.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -390,7 +316,7 @@
         <state relative-caret-position="198">
           <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
           <folding>
-            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#0#37#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -417,7 +343,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -425,9 +350,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1404">
           <caret line="78" column="11" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="11" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -435,9 +358,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1044">
           <caret line="58" column="20" lean-forward="false" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -471,9 +392,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -544,17 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clinicalSearch/templates/clinicalSearch/result.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="78" column="11" lean-forward="true" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -562,6 +470,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinicalSearch/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinicalSearch/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinicalSearch/templates/clinicalSearch/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -569,41 +502,15 @@
     <entry file="file://$PROJECT_DIR$/SearchClinicalTrials/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
-          <caret line="115" column="0" lean-forward="true" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clinicalSearch/templates/clinicalSearch/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="198" column="56" lean-forward="true" selection-start-line="198" selection-start-column="56" selection-end-line="198" selection-end-column="56" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clinicalSearch/static/clinicalSearch/css/my-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="222">
           <caret line="624" column="24" lean-forward="true" selection-start-line="624" selection-start-column="24" selection-end-line="624" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clinicalSearch/templates/clinicalSearch/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clinicalSearch/media/NCT00002498.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="27" column="46" lean-forward="false" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
           <folding />
         </state>
       </provider>
@@ -624,20 +531,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clinicalSearch/views.py">
+    <entry file="file://$PROJECT_DIR$/clinicalSearch/media/NCT00002498.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        <state relative-caret-position="18">
+          <caret line="27" column="46" lean-forward="false" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clinicalSearch/urls.py">
+    <entry file="file://$PROJECT_DIR$/clinicalSearch/templates/clinicalSearch/result.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="395">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinicalSearch/templates/clinicalSearch/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="48" column="59" lean-forward="false" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
           <folding>
-            <element signature="e#0#37#0" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
